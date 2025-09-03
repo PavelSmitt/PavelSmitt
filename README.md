@@ -25,7 +25,7 @@
 
 ### ⚙️ IT Solutions & Automation
 - [Transcription System](https://smittmediagroup.ru/rasshifrovka-audio-video-v-tekst-transkribatsiya) — audio/video to text in minutes, 6-GPU pipeline.  
-- [3D Model](https://scifinews.ru/3d/2/aifit2.html) — interactive versions 1 & 2.  
+- [3D Model](https://scifinews.ru/3d/aifit.html) — interactive versions 1 & 2.  
 - [Kayf Focus Planner](https://smittmediagroup.ru/planner-kayf-focus) — goals in sight, focus on priorities.  
 - [Banquet Calculator](https://smittmediagroup.ru/banquet) — accurate calculation of food & drinks.  
 - [Travel Routes Map](https://i-carrent.ru/travel/avtopoezdki.html) — ready-made road trips with descriptions.  
